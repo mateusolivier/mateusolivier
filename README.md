@@ -2,8 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Hello, everyone!
-Me chamo Mateus Oliveira, tenho 29 anos e sou natural do Rio Grande do Norte. Sou Bacharel em Ciência e Tecnologia pela UFERSA (Universidade Federal Rural do Semi-Árido). Atualmente, estou cursando Desenvolvimento Full Stack na Estácio. Sou apaixonado por tecnologia e estou sempre buscando aprender e compartilhar conhecimento na área.
+Hi everyone! How’s it going?
+
+Desenvolvedor em formação, apaixonado por tecnologia. Bacharel em Ciência e Tecnologia na UFERSA (Universidade Federal Rural do Semi-Árido) e atualmente cursando Desenvolvimento Full Stack (Estácio). Sempre buscando aprender, evoluir e compartilhar conhecimento na área.
 
 ---
 
@@ -120,6 +121,3 @@ Me chamo Mateus Oliveira, tenho 29 anos e sou natural do Rio Grande do Norte. So
   />
 
 </p>
-
-
-
