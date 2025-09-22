@@ -4,7 +4,7 @@
 
 Hi everyone! How’s it going?
 
-Desenvolvedor em formação, apaixonado por tecnologia. Experiência na área de infraestrutura tecnológia e suporte a sistemas ERP. Já cursei Interdisciplinar em Ciência e Tecnologia na UFERSA e atualmente cursando Desenvolvimento Full Stack ma Uniersidade Estácio de Sá e Língua Inglesa (Ágora) na UFRN. Sempre buscando aprender, evoluir e compartilhar conhecimento na área.
+Desenvolvedor em formação, apaixonado por tecnologia. Experiência na área de infraestrutura tecnológia e suporte a sistemas ERP. Já cursei Interdisciplinar em Ciência e Tecnologia na UFERSA e atualmente cursando Desenvolvimento Full Stack ma Universidade Estácio de Sá e Língua Inglesa (Ágora) na UFRN. Sempre buscando aprender, evoluir e compartilhar conhecimento na área.
 
 ---
 
